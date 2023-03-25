@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Environment>
+    <!-- TimeOut -->
+    <TimeOut>3</TimeOut>
+
+    <!---_________________________________________________________ Web_______________________________________________________________-->
+    <BrowserName>chrome</BrowserName>
+    <url>https://demo.nopcommerce.com/</url>
+
+  <!-- Register-->
+  <firstName>shlomi</firstName>
+  <lastName>tagenya</lastName>
+  <birthDay>25</birthDay>
+  <birthMonth>May</birthMonth>
+  <birthYear>1990</birthYear>
+  <email>shlomitagenya@gmail.com</email>
+  <companyName>freelance</companyName>
+  <password>ST147963</password>
+  <confirmPass>ST147963</confirmPass>
+  <msgError>The specified email already exists</msgError>
+  <!-- Login-->
+  <logOut>Log out</logOut>
+  <!-- ProductName>arch-->
+  <item>Lenovo</item>
+  <productName>Lenovo IdeaCentre 600 All-in-One PC</productName>
+  <quantity>3</quantity>
+  <addToCart>The product has been added to your shopping cart</addToCart>
+  <!-- Type Coin-->
+  <coinType>Euro</coinType>
+  <!-- Type Coin-->
+  <cellphones>Cell phones</cellphones>
+  <sortBy>Price: Low to High</sortBy>
+  <phonePrice>$100.00</phonePrice>
+  <phoneName>HTC One M8 Android L 5.0 Lollipop</phoneName>
+  <!--Image Repository -->
+  <ImageRepo>C:\\Projects\\Automation-Project\\FullStackAutomation\\ImageRepository\\</ImageRepo>
+  <!--Social Media Icons -->
+  <facebook>https://www.facebook.com/nopCommerce</facebook>
+  <twitter>https://twitter.com/nopCommerce</twitter>
+  <youtube>https://www.youtube.com/user/nopCommerce</youtube>
+  <!--Survey Answer Option 1: -->
+  <answer1>Excellent</answer1>
+  <answer2>Good</answer2>
+  <answer3>Poor</answer3>
+  <answer4>Very bad</answer4>
+  <!--Survey Answer Option 2: -->
+  <answerOptions>Excellent Good Poor Very bad</answerOptions>
+  <errorMsg>Only registered users can vote.</errorMsg>
+  <!--WishList: -->
+
+  <!--Data Driven Testing -->
+
+  <product1>Apple MacBook Pro 13-inch</product1>
+  <product2>Lenovo IdeaCentre 600 All-in-One PC</product2>
+  <product3>No products were found that matched your criteria.</product3>
+
+  <!--Data Driven Testing 2 -->
+  <computerName1>Desktops</computerName1>
+  <computerName2>Notebooks</computerName2>
+  <computerName3>Software</computerName3>
+
+  <!--Update Contact Us Form -->
+  <fullName>shlomi tagenya</fullName>
+  <emailAdd>shlomi@gmail.com</emailAdd>
+  <enquiry>Hello, My Name Is Shlomi , Contact Us With Me please</enquiry>
+  <msg>Your enquiry has been successfully sent to the store owner.</msg>
+
+  <!--Top Products -->
+
+  <!--Product 1:-->
+  <ram>4GB [+$20.00]</ram>
+  <jdd>400 GB [+$100.00]</jdd>
+  <processor>2.2 GHz Intel Pentium Dual-Core E2200</processor>
+  <total>$2,940.00</total>
+
+  <!--Product 2:-->
+  <empty>The wishlist is empty!</empty>
+
+  <!--Product 3:-->
+  <emailFriend>renana@gmail.com</emailFriend>
+  <myEmail>shlomi@gmail.com</myEmail>
+  <massage>Hi, Renana This Is Great Product To Offer You</massage>
+  <errorMsg2>Only registered customers can use email a friend feature</errorMsg2>
+
+  <!--Product 3:-->
+  <RecipientName>Renana</RecipientName>
+  <RecipientEmail>renana@gmail.com</RecipientEmail>
+  <myName>Shlomi T</myName>
+  <msg2>Hi, Renana I Want To Give You A Gift Card For By Anything You Want For You Birthday</msg2>
+  <giftPrice>€21.50</giftPrice>
+  <proName>$25 Virtual Gift Card</proName>
+  <totalInCart>€1290.00</totalInCart>
+
+ <!---_________________________________________________________ Mobile_______________________________________________________________-->
+
+ <UDID>5200fe1ceefca4c9</UDID>
+ <AppPackage>com.financial.calculator</AppPackage>
+ <AppActivity>.FinancialCalculators</AppActivity>
+ <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+
+  <!---TVM Calculator -->
+  <pv>-50.614</pv>
+  <pmt>6.000</pmt>
+  <fv>22.000</fv>
+  <rate>10.000</rate>
+  <perido>5.000</perido>
+
+  <!---Currency -->
+  <convert>2 RUB = 10 ZAR</convert>
+  <reverse>2 ZAR = 0.4 RUB</reverse>
+  <convert2>2 ZAR = 20 RUB</convert2>
+  <reverse2>2 RUB = 0.2 ZAR</reverse2>
+
+  <!---Currency -->
+  <tvm>TVM Calculator</tvm>
+  <credit>Credit Card Payoff Calculator</credit>
+  <roi>ROI Calculator</roi>
+
+  <!---Settings-->
+  <grid>Homepage - List or Grid</grid>
+
+  <!---IRR NPV-->
+  <noteMsg>IRR is not related to the Discount Rate. To calculate NPV, enter a discount rate which may be your borrowing rate.</noteMsg>
+
+  <!---Effective Rate-->
+  <result1>24.35966%</result1>
+  <result2>472.05284%</result2>
+  <result3>1.83333%</result3>
+
+  <!---Discount Page-->
+  <originalPrice>19.52</originalPrice>
+  <taxResult>Tax: 22%, 2.46</taxResult>
+  <youPaidResult>13.66</youPaidResult>
+  <yourSave>Your save: 5.86 (36.60% off)</yourSave>
+
+
+  <!---_________________________________________________________ API_______________________________________________________________-->
+    <urlAPI>http://localhost:9000</urlAPI>
+
+  <!--Details STUDENT1 : -->
+  <firstNameStudent>Vernon</firstNameStudent>
+  <lastNameStudent>Harper</lastNameStudent>
+  <emailStudent>egestas.rhoncus.Proin@massaQuisqueporttitor.org</emailStudent>
+  <programmeStudent>Financial Analysis</programmeStudent>
+  <course1>Accounting</course1>
+  <course2>Statistics</course2>
+
+  <!--ADD STUDENT : -->
+  <nameNewStudent>shlomi</nameNewStudent>
+  <lastNameNewStudent>Tgaenya</lastNameNewStudent>
+  <emailNewStudent>shlomi@gmail.com</emailNewStudent>
+  <programmeNewStudent>QA MANUAL</programmeNewStudent>
+
+  <!--UPDATE COURSES : -->
+  <newProgramme>QA AUTOMATION</newProgramme>
+
+  <!--ADD COURSES Student 101: -->
+  <course1NewStudent>Java</course1NewStudent>
+  <course2NewStudent>Selenium</course2NewStudent>
+
+  <!--ADD COURSES Student 102: -->
+  <course3>Machine Element Design</course3>
+  <course4>Human Behavior</course4>
+  <course5>Statistics</course5>
+
+    <!---_________________________________________________________ ELECTRON_______________________________________________________________-->
+   <ElectronDriverPath>C:/Projects\Automation-Project/FullStackAutomation/Drivers/electrondriver.exe</ElectronDriverPath>
+   <ElectronPath>C:/Users/shlom/AppData/Local/Programs/todolist/Todolist.exe</ElectronPath>
+
+  <!--DATE : -->
+  <datePick>2023-03-10</datePick>
+  <remainingTasks>3 remaining tasks</remainingTasks>
+
+
+  <!---_________________________________________________________ Desktop_______________________________________________________________-->
+
+  <AppiumServerDesktop>http://127.0.0.1:4723</AppiumServerDesktop>
+   <spotify>spotify</spotify>
+
+
+  <!--Login  : -->
+  <spotifyUser>shlomitagenya@gmail.com</spotifyUser>
+  <spotifyPass>ST147963</spotifyPass>
+
+    <!--USER iCON: -->
+    <UserIcon>Shlomitagenya Shlomitagenya</UserIcon>
+
+    <!--Artist Name: -->
+    <artist1>Drake</artist1>
+    <artist2>John Lennon</artist2>
+    <artist3>Rihanna</artist3>
+
+
+
+
+
+
+
+</Environment>
