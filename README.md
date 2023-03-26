@@ -61,11 +61,10 @@ Run these  command in Terminal  & open Allure report:
 allure generate allure-results
 
 ```
-![Alure-Screenshot](/video%26picture/allureRport.jpg)
+![allureRport](https://user-images.githubusercontent.com/114986537/227790755-a7f7c9a2-725d-4d0b-b00b-ea3485931b87.jpg)
 
 #### Jmeter Report
-[Allure -Screenshot]
-![allureRport](https://user-images.githubusercontent.com/114986537/227790755-a7f7c9a2-725d-4d0b-b00b-ea3485931b87.jpg)
+
 
 [Listeners-Screenshot]
 [CSV FILE-Screenshot]
