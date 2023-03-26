@@ -59,7 +59,7 @@ Run these  command in Terminal  & open Allure report:
 allure serve allure-results
 ```
 
-#### Listeners 
+#### Jmeter Listeners 
 
  ![jmetetReportjpg](https://user-images.githubusercontent.com/114986537/227791299-197ca916-8b2e-4f68-b103-ef6dc69b874f.jpg)
 
