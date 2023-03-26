@@ -57,12 +57,14 @@ It is possible to run one by one from ```JAVA/CMD```OR  to run in parallel by ``
 ```
 Run these  command in Terminal  & open Allure report:
 ```
-allure generate allure-results
+allure serve allure-results
 
 ```
 
 #### Listeners 
  interface used to generate logs and customize the TestNG reports.
+ ![jmetetReportjpg](https://user-images.githubusercontent.com/114986537/227791249-9ed8e878-390c-4d25-8bb6-aa11b3a8ea28.jpg)
+
 
 
 #### Jmeter Report
