@@ -50,9 +50,6 @@ It is possible to run one by one from ```JAVA/CMD```OR  to run in parallel by ``
 
 ### Reports
 
-#### Listeners 
- interface used to generate logs and customize the TestNG reports.
-
 #### allure
 
 ![allureRport](https://user-images.githubusercontent.com/114986537/227791014-4ad4a9ec-29fc-4bed-bec6-5e75abaa4348.jpg)
@@ -67,5 +64,5 @@ allure generate allure-results
 #### Jmeter Report
 
 
-[Listeners-Screenshot]
-[CSV FILE-Screenshot]
+#### Listeners 
+ interface used to generate logs and customize the TestNG reports.
