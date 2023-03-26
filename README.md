@@ -54,11 +54,9 @@ It is possible to run one by one from ```JAVA/CMD```OR  to run in parallel by ``
 
 ![allureRport](https://user-images.githubusercontent.com/114986537/227791014-4ad4a9ec-29fc-4bed-bec6-5e75abaa4348.jpg)
 
-```
 Run these  command in Terminal  & open Allure report:
 ```
 allure serve allure-results
-
 ```
 
 #### Listeners 
