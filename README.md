@@ -50,7 +50,7 @@ It is possible to run one by one from ```JAVA/CMD```OR  to run in parallel by ``
 
 ### Reports
 
-#### Listeners![allureRport](https://user-images.githubusercontent.com/114986537/227790755-a7f7c9a2-725d-4d0b-b00b-ea3485931b87.jpg)
+#### Listeners 
  interface used to generate logs and customize the TestNG reports.
 
 #### allure
