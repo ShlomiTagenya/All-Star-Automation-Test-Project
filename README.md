@@ -55,13 +55,14 @@ It is possible to run one by one from ```JAVA/CMD```OR  to run in parallel by ``
 
 #### allure
 
+![allureRport](https://user-images.githubusercontent.com/114986537/227791014-4ad4a9ec-29fc-4bed-bec6-5e75abaa4348.jpg)
+
 ```
 Run these  command in Terminal  & open Allure report:
 ```
 allure generate allure-results
 
 ```
-![allureRport](https://user-images.githubusercontent.com/114986537/227790755-a7f7c9a2-725d-4d0b-b00b-ea3485931b87.jpg)
 
 #### Jmeter Report
 
