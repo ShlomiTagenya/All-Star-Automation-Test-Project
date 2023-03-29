@@ -26,7 +26,7 @@ Page Object Design Pattern (Extensions/Work Flows/Test Cases...).
 *  Students API - Web API 
 *  ToDoList - Electron App
 *  Spotify - Desktop application
-*  HBO - JMeter App
+*  HBO - JMeter 
 
 
 
